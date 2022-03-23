@@ -10,15 +10,21 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "axios": "^0.26.1",
     "expo": "~44.0.0",
     "expo-status-bar": "~1.2.0",
+    "js-cookie": "^3.0.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
-    "react-native-web": "0.17.1"
+    "react-native-web": "0.17.1",
+    "vue-native-core": "^0.3.1",
+    "vue-native-helper": "^0.3.1",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.17.8",
+    "vue-native-scripts": "^0.3.1"
   },
   "private": true
 }
